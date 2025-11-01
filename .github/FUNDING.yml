@@ -1,0 +1,29 @@
+# funding.yml - Template for project sponsorships
+
+# Individual contributors or organizations
+individuals:
+  - name:
+    url:
+
+organizations:
+  - name: Halforest
+    url: https://github.com/halforest
+
+# Platforms hosting fundraisers or donations
+platforms:
+  github: # GitHub Sponsors
+    - xqb-dpx
+
+# Optional messages
+message: "If you find this project useful, consider supporting us to help maintain and improve it!"
+
+# Tiered support recommendations (optional)
+tiers:
+  bronze: "Thank you for small contributions! Every bit helps."
+  silver: "Your support enables sustained development."
+  gold: "You are a major supporter. Thank you for backing the project!"
+
+# Optional, specific recurring monthly support URLs
+recurring:
+  - name: Coffee Monthly
+    url:
