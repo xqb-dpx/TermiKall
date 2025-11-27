@@ -6,7 +6,7 @@ version: "7.5.3"
 tags: ["Terminal", "PowerShell", "Network Tool"]
 ---
 
-## [Termicall](https://github.com/users/xqb-dpx/projects/2): PowerShell Network Utility Set Module 
+## Termicall: PowerShell Network Utility Set Module 
 
 __{based on windows}__
 
