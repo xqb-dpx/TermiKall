@@ -1,6 +1,6 @@
 ---
 title: "Termicall"
-author: "cmd_er"
+author: "[cmd_er](https://github.com/xqb-dpx)"
 date: "22-9-2025"
 version: "7.5.3"
 tags: ["Terminal", "PowerShell", "Network Tool"]
